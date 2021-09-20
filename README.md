@@ -23,6 +23,9 @@ The analysis of outcomes based on goals is performed by first categorizing proje
 
 
 ### Challenges and Difficulties Encountered
+While working on "Theater based on Goals worksheet, I was not able to drag and drop the formula across the columns. I had to type out the formula for the successful, failed and canceled columns each time. I later realized that it can be easily rectified by adding dollar signs to lock the cell reference and by adding another top row containing the categories "successful", "failed", and "canceled".
+
+![Challenge](https://github.com/vedikanigam/Kickstarter-Project/blob/main/Resources/Challenge1.png)
 
 ## Results
 
