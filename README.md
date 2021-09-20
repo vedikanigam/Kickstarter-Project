@@ -9,7 +9,16 @@ The purpose of this project is to determine if Louise's fundraising campaign wil
 ## Analysis and Challenges 
 
 ### Analysis of Outcomes Based on Launch Date
-First, a pivot table is created from the Kickstarter sheet to determine the time of the year that is most suitable for starting a campaign. This pivot table is filtered to show data for parent category “theater”. The total number of successful, failed, and canceled campaign outcomes are added for all the years since the campaigns started and further categorized by months of the year in rows. /resources/Theater_Outcome_vs_Pivot_Table.png
+First, a pivot table is created from the Kickstarter sheet to determine the time of the year that is most suitable for starting a campaign. This pivot table is filtered to show data for parent category “theater”. The total number of successful, failed, and canceled campaign outcomes are added for all the years since the campaigns started and further categorized by months of the year in rows. 
+![Theater Outcome Pivot Table](https://github.com/vedikanigam/Kickstarter-Project/blob/main/Resources/Theater_Outcome_vs_Pivot_Table.png)
+A line graph is created from this table to show the general trend for successful, failed, and canceled campaigns. Kickstarter-Project/resources/Theater_Outcomes_vs_Launch.png
 
+### Analysis of Outcomes Based on Goals
+The analysis of outcomes based on goals is performed by first categorizing projects based on their goal amount. These categories define different dollar amount ranges sorted in ascending order. The total number of successful, failed, and canceled projects are shown in these categories as numbers as well as percentages. The percentages are further plotted in a line graph to show a general trend. Kickstarter-Project/resources/Outcomes_vs_goals.png 
 
- A line graph is created from this table to show the general trend for successful, failed, and canceled campaigns. 
+### Challenges and Difficulties Encountered
+
+## Results
+
+### Conclusions about the Outcomes Based on Launch Date
+
