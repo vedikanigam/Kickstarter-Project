@@ -58,6 +58,6 @@ The analysis of outcomes based on goals is performed by first categorizing proje
 One of the limitations of this dataset is that there is no information about the quality of the projects and what were some other factors that influenced pledged versus goal targets.
 
 ### Possible tables and/or graphs that can help with analysis
-For campaign outcomes based on launch date it may be useful to see the percentages of successful, failed and canceled projects in a chart. 
+For, campaign outcomes based on launch date chart, it may be useful to see the percentages of successful, failed, and canceled projects in a chart. 
 
 
