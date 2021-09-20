@@ -28,13 +28,13 @@ The analysis of outcomes based on goals is performed by first categorizing proje
 
 ### Conclusions about the Outcomes Based on Launch Date
 
-- Finding 1
+- **Finding 1** - 
 	From the chart below it can be concluded that most successful theater campaigns occurred in May. However, during May failed theater campaigns were also the highest. 
-- Finding 2
+- **Finding 2** - 
 	There is a steep downward trend in successful plays from May to September and from October to December. 
-- Finding 3
+- **Finding 3** - 
 	May, June, July, and August had nearly the same number of failed campaigns launched. 
-- Finding 4
+- **Finding 4** - 
 	At the end of the year in December the number of successful theater campaigns is almost equal to failed theater campaigns. 
 
 
@@ -42,13 +42,13 @@ The analysis of outcomes based on goals is performed by first categorizing proje
 
 ### Conclusions about the Outcomes Based on Goals
 
-- Finding 1
+- **Finding 1** - 
 	The theater campaigns for plays were most successful when the goal was either in the two categories - below $1000 or when it was between S1000 and $4999. 
-- Finding 2
+- **Finding 2** - 
 	Two other goal categories in which the projects were successful was between $35000 and $39999 and between $40000 and $44999. However, this finding was based on a very small sample size and therefore may not be reliable.
-- Finding 3
+- **Finding 3** - 
 	No projects got canceled for theater campaigns for plays.
-- Finding 4
+- **Finding 4** - 
 	Most failed campaigns happened when the goal was set between $25000 and $29999 or when the goal was greater than $45000.
 
 
