@@ -19,7 +19,7 @@ First, a pivot table is created from the Kickstarter sheet to determine the time
 The analysis of outcomes based on goals is performed by first categorizing projects based on their goal amount. These categories define different dollar amount ranges sorted in ascending order. The total number of successful, failed, and canceled projects are shown in these categories as numbers as well as percentages. The percentages are further plotted in a line graph to show a general trend. 
 
 
-![Theater Outcome Launch Date Graph](https://github.com/vedikanigam/Kickstarter-Project/blob/main/Resources/Theater_Outcomes_vs_Launch.png)
+![Theater Outcome Launch Date Graph](https://github.com/vedikanigam/Kickstarter-Project/blob/main/Resources/Outcomes_Based_On_Goals_Table.png)
 
 
 ### Challenges and Difficulties Encountered
